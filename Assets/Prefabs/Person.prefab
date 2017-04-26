@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae3410a22c77c4e2fa31aea71754fbfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  food: 0
+  food: 1
   damage: 0
   directionTimer: 2
 --- !u!212 &212508957033270050
